@@ -6,6 +6,14 @@ body
     padding: 0;
 }
 
+.header
+{
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
 h1, h2, h3, h4, h5, h6 
 {
     color: #000000;
