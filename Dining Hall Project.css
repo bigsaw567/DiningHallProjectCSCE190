@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6
     padding-left: 10px;
 }
 
-.about, .diagram
+.about, .diagram, .sketch, .problem-statement
 {
     margin: 20px;
     padding: 20px;
